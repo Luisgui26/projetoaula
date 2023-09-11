@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+    width: 100%;
+    height: 70px;
+    background-color: aqua;
+}
+
+#tlink{
+    color: brown;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+#tlink:hover{
+    background-color: orangered;
+    color: #fff;
+}
